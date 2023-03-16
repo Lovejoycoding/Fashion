@@ -39,7 +39,7 @@ nav .row .col-4.bag .icon img{
 }
 .main.col-md-12.col-lg-12.col-sm-12 {
     height: 100vh;
-    background-image: url(/img/prince-akachi-6NhEFn3aqjc-unsplash.jpg);
+    background-image: url(https://i.postimg.cc/m2MtFrj6/prince-akachi-6-Nh-EFn3aqjc-unsplash.jpg);
     background-size: cover;
     background-position: center;
     aspect-ratio: 1/1;
@@ -105,7 +105,7 @@ nav .row .col-4.bag .icon img{
 .fashion{
     width: 100vw;
     height: 100vh;
-    background-image: url(/img/oladimeji-odunsi-Yi4Zs64l0tE-unsplash.jpg);
+    background-image: url(https://i.postimg.cc/fbMZyzqX/dami-adebayo-k6a-Qzm-Ib-R1s-unsplash.jpg);
     background-size: cover;
     background-position: center;
     aspect-ratio: 1/1;
@@ -248,4 +248,5 @@ text-align: center;
     width: 1000px;
     font-size: 10px;
     font-weight: 400;
+}
 }
